@@ -1,31 +1,27 @@
-Week 4 – Live Dataset Importing & Dashboard Creation (Planned / Proposed)
+📅 Week 4: Live Data Import & Dashboard Development
 
-A live dataset refers to data that is continuously updated from a real-world source rather than being static or fixed.
+Imported the cleaned dataset into Power BI Desktop.
 
-Live datasets reflect current and real-time changes, making analysis more practical and industry-oriented.
+Created calculated columns and DAX measures for KPIs.
 
-These datasets are usually sourced from APIs, cloud databases, government portals, or online data services.
+Built KPIs such as Total Requests, Unique States, and Rejected Rate.
 
-In the context of analytics, a live dataset ensures that visualizations and insights update automatically when new data is added.
+Designed visuals based on EDA findings:
 
-Live datasets help analysts work with real-world data challenges, such as missing values, changing formats, and large data volumes.
+KPI cards for summary
 
-Unlike static datasets, live datasets require proper data refresh mechanisms.
+Bar charts for state and disaster type analysis
 
-Tools like Power BI, Tableau, and Python support live or scheduled data connections.
+Line chart for year-wise trends
 
-Using live datasets improves decision-making accuracy because insights are based on the latest data.
+Map for geographic distribution
 
-Live data is commonly used in business intelligence, disaster monitoring, finance, healthcare, and government analytics.
+Added interactive slicers for state, disaster type, and year.
 
-In our project, the US Natural Disaster dataset can be treated as a live dataset when connected directly to updated FEMA sources.
+Ensured all visuals respond dynamically to filters.
 
-Live datasets allow dashboards to remain relevant and scalable over time.
+Applied professional layout, alignment, and background styling.
 
-Working with live data builds industry-ready data analytics skills.
+Explained how live or updated data can be refreshed in Power BI.
 
-It also helps understand data pipelines, refresh schedules, and performance optimization.
-
-Live datasets support dynamic filtering and real-time analysis.
-
-Overall, live datasets bridge the gap between academic learning and real-world analytics applications.
+Delivered a complete end-to-end analytics dashboard.
