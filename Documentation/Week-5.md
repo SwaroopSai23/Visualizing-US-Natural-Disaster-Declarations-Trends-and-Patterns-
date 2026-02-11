@@ -1,4 +1,5 @@
 📊 Week 5 – Visualization Basics (Power BI)
+
 1️⃣ Data Types
 
 Understanding data types is the foundation of visualization and modeling.
@@ -17,6 +18,7 @@ Time (Date/Time) Data
 Contains date-related values.
 Examples: Order Date, Year, Month, Quarter.
 👉 Used to analyze trends and time-based growth.
+
 
 2️⃣ Types of Charts & Their Usage
 
@@ -38,6 +40,7 @@ Example: Year-wise Sales Comparison.
 
 Choosing the right chart depends on the type of data and the business question.
 
+
 3️⃣ Data Modeling
 
 Data modeling helps structure data properly for accurate analysis.
@@ -50,6 +53,7 @@ A central Fact Table is connected to multiple Dimension Tables.
 
 It improves performance and simplifies relationships.
 
+
 4️⃣ Fact Table
 
 Contains numerical and measurable data.
@@ -61,6 +65,7 @@ Usually includes foreign keys linking to dimension tables.
 Example Columns:
 Sales Amount, Quantity, Profit, Order ID.
 
+
 5️⃣ Dimension Table
 
 Contains descriptive or categorical data.
@@ -69,6 +74,7 @@ Provides context to fact table data.
 
 Example Columns:
 Product Name, Customer Name, Region, Date.
+
 
 6️⃣ Types of Relationships (Cardinality)
 
@@ -84,6 +90,7 @@ Multiple records in one table relate to a single record in another.
 
 Many-to-Many (N:N)
 Multiple records in both tables are related.
+
 
 ✅ Summary
 
