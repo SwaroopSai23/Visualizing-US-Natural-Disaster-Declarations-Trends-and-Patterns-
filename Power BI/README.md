@@ -28,7 +28,7 @@ After these steps, the dataset was clean, structured, and ready for exploratory 
 
 📊 Dashboard Development Using Power BI
 
-An interactive dashboard was developed in Power BI to analyze disaster declaration trends and patterns effectively. The dashboard creation process included the following steps:
+An interactive dashboard solution was developed in Power BI to analyze disaster declaration trends and patterns effectively. The dashboard creation process included the following steps:
 
 Loaded the cleaned dataset into Power BI Desktop.
 
@@ -64,3 +64,67 @@ Applied professional formatting, alignment, and background styling to enhance re
 Ensured all visuals and KPIs respond correctly to slicer selections.
 
 The final dashboard provides an end-to-end analytical view of disaster declaration data, enabling interactive and data-driven exploration.
+
+🆕 📅 Today’s Work – Post Data Cleaning & Dashboard Refinement
+
+After completing data cleaning, today’s work focused on transforming cleaned data into decision-ready dashboards and refining them through review and improvement.
+
+🔹 Dashboard Structuring Based on Questions
+
+Designed separate dashboards for separate business questions instead of combining all insights into one view.
+
+Ensured each dashboard answers one clear analytical question.
+
+🔹 KPI & Measure Enhancement
+
+Created advanced DAX measures to calculate:
+
+High-Risk States (states above national average)
+
+Peak Year and Peak Year Declarations
+
+Average Annual Declarations
+
+Validated all KPIs for accuracy and correct filter behavior.
+
+🔹 Dashboard Review & Optimization
+
+Reviewed visuals to confirm they support the intended question.
+
+Removed unnecessary or redundant charts.
+
+Improved visual hierarchy using a top-down structure:
+
+KPIs at the top
+
+Trends and comparisons in the middle
+
+Supporting visuals at the bottom
+
+🔹 Color & Design Improvements
+
+Applied consistent color logic:
+
+Red for high risk / extreme values
+
+Blue for normal or neutral values
+
+Updated dashboard background to neutral tones for better readability.
+
+Added card backgrounds and subtle shadows for a professional appearance.
+
+🔹 Validation & Final Checks
+
+Verified that all visuals respond correctly to slicers.
+
+Ensured dashboard insights are easy to interpret within a few seconds.
+
+Confirmed that dashboards are suitable for presentation to mentors, reviewers, or stakeholders.
+
+✅ Outcome of Today’s Work
+
+Cleaned data successfully converted into two purpose-driven dashboards
+
+Dashboards refined to be clear, professional, and decision-focused
+
+Project now reflects an end-to-end analytics workflow, from raw data to actionable insights
