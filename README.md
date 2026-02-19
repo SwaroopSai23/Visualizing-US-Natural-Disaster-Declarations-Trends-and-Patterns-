@@ -112,7 +112,6 @@ Disaster preparedness resources are **limited**, and identifying where risk is c
 #### **Key Visuals Used**
 - **KPI Cards**
   - **Total Declarations**
-  - **High-Risk States Count**
   - **Top Disaster Type**
   - **Top Impact State**
 - **Top States by Disaster Declarations (Bar Chart)**
