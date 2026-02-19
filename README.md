@@ -188,6 +188,13 @@ This dashboard supports **national-level disaster risk assessment**, helping pol
 
 ---
 
+## **Images**
+
+<img width="1429" height="796" alt="Screenshot 2026-02-19 101551" src="https://github.com/user-attachments/assets/8f161933-16d6-4687-9448-5ba79e12aec3" />
+<img width="1445" height="808" alt="Screenshot 2026-02-19 101606" src="https://github.com/user-attachments/assets/4df17e59-5158-44f8-8d54-96a988956ca1" />
+
+---
+
 ## 🏁 **Project Outcome**
 
 This project demonstrates a **complete data analytics lifecycle** — from raw data preparation and **business-driven exploratory analysis** to **question-focused dashboards** that support **real-world decision-making** in disaster management and policy planning.
